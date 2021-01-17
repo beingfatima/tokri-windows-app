@@ -1,0 +1,48 @@
+G:\Work\University\FPY\Tokri\Window App\Shop\Shop\bin\Debug\Shop.exe.config
+G:\Work\University\FPY\Tokri\Window App\Shop\Shop\bin\Debug\Shop.exe
+G:\Work\University\FPY\Tokri\Window App\Shop\Shop\bin\Debug\Shop.pdb
+G:\Work\University\FPY\Tokri\Window App\Shop\Shop\bin\Debug\Bunifu_UI_v1.52.dll
+G:\Work\University\FPY\Tokri\Window App\Shop\Shop\bin\Debug\Guna.UI.dll
+G:\Work\University\FPY\Tokri\Window App\Shop\Shop\obj\Debug\Shop.csprojResolveAssemblyReference.cache
+G:\Work\University\FPY\Tokri\Window App\Shop\Shop\obj\Debug\Shop.Properties.Resources.resources
+G:\Work\University\FPY\Tokri\Window App\Shop\Shop\obj\Debug\Shop.csproj.GenerateResource.Cache
+G:\Work\University\FPY\Tokri\Window App\Shop\Shop\obj\Debug\Shop.exe
+G:\Work\University\FPY\Tokri\Window App\Shop\Shop\obj\Debug\Shop.pdb
+G:\Work\University\FPY\Tokri\Window App\Shop\Shop\obj\Debug\Shop.login.resources
+G:\Work\University\FPY\Tokri\Window App\Shop\Shop\obj\Debug\Shop.Start.resources
+G:\Work\University\FPY\Tokri\Shop\Shop\bin\Debug\Shop.exe.config
+G:\Work\University\FPY\Tokri\Shop\Shop\obj\Debug\Shop.pdb
+D:\Tokri.pk\Shop\Shop\bin\Debug\Shop.exe.config
+D:\Tokri.pk\Shop\Shop\bin\Debug\Shop.exe
+D:\Tokri.pk\Shop\Shop\bin\Debug\Shop.pdb
+D:\Tokri.pk\Shop\Shop\bin\Debug\XanderUI.dll
+D:\Tokri.pk\Shop\Shop\obj\Debug\Shop.Admin_Sample.resources
+D:\Tokri.pk\Shop\Shop\obj\Debug\Shop.login.resources
+D:\Tokri.pk\Shop\Shop\obj\Debug\Shop.Properties.Resources.resources
+D:\Tokri.pk\Shop\Shop\obj\Debug\Shop.Sample.resources
+D:\Tokri.pk\Shop\Shop\obj\Debug\Shop.Start.resources
+D:\Tokri.pk\Shop\Shop\obj\Debug\Shop.csproj.GenerateResource.cache
+D:\Tokri.pk\Shop\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+D:\Tokri.pk\Shop\Shop\obj\Debug\Shop.csproj.CopyComplete
+D:\Tokri.pk\Shop\Shop\obj\Debug\Shop.exe
+D:\Tokri.pk\Shop\Shop\obj\Debug\Shop.pdb
+D:\Tokri.pk\Shop\Shop\obj\Debug\Shop.AdminHome.resources
+D:\Tokri.pk\Shop\Shop\obj\Debug\Shop.Sells.resources
+D:\Tokri.pk\Shop\Shop\obj\Debug\Shop.ItemCategories.resources
+D:\Tokri.pk\Shop\Shop\obj\Debug\Shop.Items.resources
+D:\Tokri.pk\Shop\Shop\obj\Debug\Shop.Sellers.resources
+D:\Tokri.pk\Shop\Shop\obj\Debug\Shop.About.resources
+D:\Tokri.pk\Shop\Shop\obj\Debug\Shop.SellerHome.resources
+D:\Tokri.pk\Shop\Shop\obj\Debug\Shop.Orders.resources
+D:\Tokri.pk\Shop\Shop\obj\Debug\Shop.OrderList.resources
+D:\Tokri.pk\Shop\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
+D:\Tokri.pk\Shop\Shop\bin\Debug\AForge.dll
+D:\Tokri.pk\Shop\Shop\bin\Debug\AForge.Video.DirectShow.dll
+D:\Tokri.pk\Shop\Shop\bin\Debug\AForge.Video.dll
+D:\Tokri.pk\Shop\Shop\bin\Debug\zxing.dll
+D:\Tokri.pk\Shop\Shop\bin\Debug\zxing.presentation.dll
+D:\Tokri.pk\Shop\Shop\bin\Debug\AForge.xml
+D:\Tokri.pk\Shop\Shop\bin\Debug\AForge.Video.xml
+D:\Tokri.pk\Shop\Shop\bin\Debug\AForge.Video.DirectShow.xml
+D:\Tokri.pk\Shop\Shop\bin\Debug\zxing.xml
+D:\Tokri.pk\Shop\Shop\bin\Debug\zxing.presentation.xml
